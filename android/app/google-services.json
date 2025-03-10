@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "936811195045",
+    "firebase_url": "https://nala-care-2dcba-default-rtdb.firebaseio.com",
+    "project_id": "nala-care-2dcba",
+    "storage_bucket": "nala-care-2dcba.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936811195045:android:b2588f12e2cc2d06903b4c",
+        "android_client_info": {
+          "package_name": "com.example.lana_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoq7WPQsWDzgmtjFXtqjPGIxynkR6nHlw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
